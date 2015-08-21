@@ -1,10 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## test change
-change!!!!!!!!
-  please?
 ## Write a short comment describing this function
+
+## more github testing
 
 makeCacheMatrix <- function(x = matrix()) {
 
